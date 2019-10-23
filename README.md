@@ -62,7 +62,8 @@ Our work on valuing actions in soccer appeared in numerous newspapers and media 
 
 I co-organized a three day Spring workshop on mining and learning ([SMiLee](https://dtai.cs.kuleuven.be/smilee/)) for the ML group of KU Leuven in 2017.
 
-**:european_post_office: Didactical tasks**
+**:school: Didactical tasks**
+
 I am/was a teaching assistant for the following courses:
 - [Declarative languages](https://onderwijsaanbod.kuleuven.be/2019/syllabi/e/H0N03AE.htm#activetab=doelstellingen_idp12290864) (2017-2020)
 - [Data structures and algorithms](https://onderwijsaanbod.kuleuven.be/2019/syllabi/n/G0P81AN.htm#activetab=doelstellingen_idp745648) (2016-2020)
@@ -76,7 +77,7 @@ I am/was a daily master's thesis advisor for the following students:
 
 I am the ombuds for both the Dutch Master Computerwetenschappen and the English Master in Computer Science at KU Leuven. You can reach me at ombuds-master@cs.kuleuven.be.
 
-## Contact
+##:mailbox: Contact
 **Email**  
 [Send an email](https://people.cs.kuleuven.be/cgi-bin/e-post.pl?epost=Tom.Decroos)  
 
