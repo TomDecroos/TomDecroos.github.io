@@ -77,7 +77,7 @@ I am/was a daily master's thesis advisor for the following students:
 
 I am the ombuds for both the Dutch Master Computerwetenschappen and the English Master in Computer Science at KU Leuven. You can reach me at ombuds-master@cs.kuleuven.be.
 
-##:mailbox: Contact
+## :mailbox: Contact
 **Email**  
 [Send an email](https://people.cs.kuleuven.be/cgi-bin/e-post.pl?epost=Tom.Decroos)  
 
