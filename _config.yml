@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 gems: ["jemoji"]
 title: ["Tom Decroos"]
-logo: ["selfie_tom.jpg"]
+logo: selfie_tom.jpg
 description: ["PhD Researcher in Machine Learning"]
