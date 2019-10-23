@@ -1,3 +1,5 @@
+## PhD Researcher in Machine Learning, Artificial Intelligence and Sports Analytics
+![](selfie_tom.jpg)
 Hi! I am Tom, a 4th year PhD student in the DTAI Research group at KU Leuven working with Prof. [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/). I research how to **learn from complex data streams** (using both predictive and descriptive machine learning methods) with a focus on soccer analytics. :soccer:
 
 I have a personal **4-year PhD scholarship (aspirant) from FWO Flanders** from October 2017 until September 2021. I recently won the **best applied data science paper award at SIGKDD 2019** (out of >700 submitted papers). I did a 3-month **PhD internship at Facebook** in summer 2018 where I trained and evaluated deep neural networks that recommend ads to over 2 billion users and improved existing production models to be more robust in A/A tests and use less privacy-sensitive user data.
@@ -6,7 +8,7 @@ I am also the author and maintainer of two soccer-related pip packages:
 1. `socceraction` [https://github.com/ML-KULeuven/socceraction](https://github.com/ML-KULeuven/socceraction): Convert soccer event stream data from commercial vendors (e.g., Opta, Wyscout, StatsBomb) to actions in the simpler SPADL language and value the actions using the VAEP framework.
 2. `matplotsoccer` [https://github.com/TomDecroos/matplotsoccer](https://github.com/TomDecroos/matplotsoccer): Visualize soccer event stream data and common figures such as heatmaps over a soccer field.
 
-## :books: Publications
+## Publications
 
 For the most up-to-date list, see [google scholar](https://scholar.google.be/citations?user=qjT9xpQAAAAJ&hl=en).
 
@@ -40,7 +42,7 @@ Our work on valuing actions in soccer appeared in numerous newspapers and media 
 - [https://innovationorigins.com/research-by-ku-leuven-brings-proof-messi-is-better-than-ronaldo/](https://innovationorigins.com/research-by-ku-leuven-brings-proof-messi-is-better-than-ronaldo/)
 - ...
 
-## :earth_africa: Community service
+## Community service
 
 **:mag: Reviewing**
 - PC member for [SDM 2020](https://www.siam.org/conferences/cm/conference/sdm20)
@@ -74,7 +76,7 @@ I am/was a daily master's thesis advisor for the following students:
 
 I am the ombuds for both the Dutch Master Computerwetenschappen and the English Master in Computer Science at KU Leuven. You can reach me at ombuds-master@cs.kuleuven.be.
 
-## :mailbox: Contact
+## Contact
 **Email**  
 [Send an email](https://people.cs.kuleuven.be/cgi-bin/e-post.pl?epost=Tom.Decroos)  
 
