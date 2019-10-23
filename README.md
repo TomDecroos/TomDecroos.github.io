@@ -1,7 +1,6 @@
-# Tom Decroos - PhD Researcher in Machine Learning, Artificial Intelligence, and Soccer Analytics
-![Headshot of Tom](headshot_tom_small.jpg)
-
-I am a 4th year PhD student in the DTAI Research group at KU Leuven working with Prof. [Jesse Davis (https://people.cs.kuleuven.be/~jesse.davis/). I research how to _learn_ from complex data streams (using both predictive and descriptive machine learning methods) with a focus on soccer analytics.
+title: [Tom Decroos - PhD Researcher in Machine Learning, Artificial Intelligence, and Soccer Analytics]
+description: [I am a 4th year PhD student in the DTAI Research group at KU Leuven working with Prof. [Jesse Davis (https://people.cs.kuleuven.be/~jesse.davis/). I research how to _learn_ from complex data streams (using both predictive and descriptive machine learning methods) with a focus on soccer analytics.]
+logo: [headshot_tom_small.jpg]
 
 # Publications
 
