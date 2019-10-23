@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github.com/TomDecroos/TomDecroos.github.io/raw/master/selfie_tom.jpg">
+<img align="right" width="170" src="https://github.com/TomDecroos/TomDecroos.github.io/raw/master/headshot_tom_small.jpg">
 
 Hi! I am Tom, a 4th year PhD student in the DTAI Research group at KU Leuven working with Prof. [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/). I research how to **learn from complex data streams** (using both predictive and descriptive machine learning methods) with a focus on soccer analytics. :soccer:
 
