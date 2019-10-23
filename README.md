@@ -1,1 +1,2 @@
-# tomdecroos.github.io
+# Tom Decroos
+![Headshot of Tom](headshot_tom.jpg)
