@@ -2,4 +2,3 @@ theme: jekyll-theme-minimal
 gems: ["jemoji"]
 title: [Tom Decroos]
 description: [PhD Researcher in Machine Learning]
-logo: [selfie_tom.jpg]
