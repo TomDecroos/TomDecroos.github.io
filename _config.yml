@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
+title: [Tom Decroos]
+description: [PhD Researcher in Machine Learning, Artificial Intelligence and Soccer Analytics]
+logo: [selfie_tom.jpg]
 gems: ["jemoji"]
-title: Tom Decroos
-description: PhD Researcher in Machine Learning, Artificial Intelligence and Soccer Analytics.
-logo: selfie_tom.jpg
-
