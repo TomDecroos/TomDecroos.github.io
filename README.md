@@ -1,55 +1,38 @@
-# Publications
+## Tom Decroos - PhD Researcher in Machine Learning and Artificial Intelligence
+![](selfie_tom.jpg)
 
-### 2019
-- Actions Speak Louder Than Goals: Valuing Player Actions in Soccer. _Tom Decroos, Lotte Bransen, Jan Van Haaren, Jesse Davis._ **KDD 2019 (Best Applied Data Science  Paper)**. [[paper](reports/kdd19_tomd.pdf)] [[slides](reports/kdd2019_tomd_slides.pdf)] [[youtube](https://www.youtube.com/watch?v=S_WJwqfVNis])]
-- Player Vectors: Characterizing Soccer Players' Playing Style from Match Event Streams. _Tom Decroos, Jesse Davis._ **ECML/PKDD 2019**. [[paper](reports/ecml19_tomd.pdf)] [[slides](reports/playing-style-wide-v2.pdf)]
-- Analyzing Soccer Players’ Skill Ratings Over Time Using Tensor-Based Methods. _Kenneth Verstraete, Tom Decroos, Bruno Coussement, Nick Vannieuwenhoven, Jesse Davis._ Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2018 workshop.
-[[paper](reports/mlsa19-verstraete.pdf)]
+I am a 4th year PhD student in the DTAI Research group at KU Leuven working with Prof. [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/). I research how to **learn from complex data streams** (using both predictive and descriptive machine learning methods) with a focus on soccer analytics.
 
-### 2018
+I hold a personal **4-year PhD scholarship (aspirant)** from **FWO Flanders** from October 2017 until September 2021. I recently won the **best applied data science paper award at SIGKDD 2019** (out of >700 submitted papers). I did a 3-month **PhD internship at Facebook** in summer 2018 where I trained and evaluated deep neural networks that recommend ads to over 2 billion users and improved existing production models to be more robust in A/A tests and use less privacy-sensitive user data.
 
-- Automatic Discovery of Tactics in Spatio-Temporal Soccer Match Data. _Tom Decroos, Jan Van Haaren, Jesse Davis._ **KDD 2018**.
-[[paper](https://lirias.kuleuven.be/retrieve/510838)] [[slides](reports/tactics-wide-v2.pdf)] [[slides pptx](reports/tactics-wide-v2.pptx)] [[poster](reports/tactics-poster.pdf)]
+I am also the author and maintainer of two soccer-related pip packages:
+1. `socceraction` [[https://github.com/ML-KULeuven/socceraction](https://github.com/ML-KULeuven/socceraction)]: Convert soccer event stream data from commercial vendors (e.g., Opta, Wyscout, StatsBomb) to actions in the simpler SPADL language and value the actions using the VAEP framework.
+2. `matplotsoccer` [[https://github.com/TomDecroos/matplotsoccer](https://github.com/TomDecroos/matplotsoccer)]: Visualize soccer event stream data and common figures such as heatmaps over a soccer field.
 
-- AMIE: Automatic Monitoring of Indoor Exercises. _Tom Decroos, Kurt Schütte, Tim Op De Beéck, Benedicte Vanwanseele, Jesse Davis._ **ECML/PKDD 2018**.
-[[paper](https://lirias.kuleuven.be/retrieve/514399)] [[slides](reports/amie-v3.pptx)] [[poster](reports/amie-poster.pdf)]
+## Publications
 
-- Characterizing Soccer Players' Playing Style from Match Event Streams. _Aron Geerts, Tom Decroos, Jesse Davis._ Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2018 workshop.
-[[paper](https://lirias.kuleuven.be/retrieve/517045)] [[slides](reports/player-vectors-v2.pptx)]
+For the most up-to-date list, see [google scholar](https://scholar.google.be/citations?user=qjT9xpQAAAAJ&hl=en).
 
-- Actions Speak Louder Than Goals: Valuing Player Actions in Soccer. _Tom Decroos\*, Lotte Bransen\*, Jan Van Haaren, Jesse Davis_. Arxiv.
-[[paper](https://arxiv.org/pdf/1802.07127.pdf)]
+**Conferences**
+1. [Actions Speak Louder Than Goals: Valuing Player Actions in Soccer](reports/kdd19_tomd.pdf). Tom Decroos, Lotte Bransen, Jan Van Haaren, Jesse Davis. **KDD 2019 (Best Applied Data Science  Paper)**. [slides](reports/kdd2019_tomd_slides.pdf)[youtube](https://www.youtube.com/watch?v=S_WJwqfVNis])
+2. [Player Vectors: Characterizing Soccer Players' Playing Style from Match Event Streams](reports/ecml19_tomd.pdf). Tom Decroos, Jesse Davis. **ECML/PKDD 2019**. [slides](reports/playing-style-wide-v2.pdf)
+3. [Automatic Discovery of Tactics in Spatio-Temporal Soccer Match Data](https://lirias.kuleuven.be/retrieve/510838).
+Tom Decroos, Jan Van Haaren, Jesse Davis. **KDD 2018**.
+[slides](reports/tactics-wide-v2.pdf) [poster](reports/tactics-poster.pdf)
+4. [AMIE: Automatic Monitoring of Indoor Exercises](https://lirias.kuleuven.be/retrieve/514399). Tom Decroos, Kurt Schütte, Tim Op De Beéck, Benedicte Vanwanseele, Jesse Davis. **ECML/PKDD 2018**.
+[slides](reports/amie-v3.pptx) [poster](reports/amie-poster.pdf)
+5. [Predicting soccer highlights from spatio-temporal match event streams](https://lirias.kuleuven.be/retrieve/415729). Tom Decroos, Vladimir Dzyuba, Jan Van Haaren, Jesse Davis. **AAAI 2017**. [poster](reports/AAAI17poster.pdf)
 
-### 2017
+**Workshops**
+1. [Analyzing Soccer Players’ Skill Ratings Over Time Using Tensor-Based Methods.](reports/mlsa19-verstraete.pdf) Kenneth Verstraete, Tom Decroos, Bruno Coussement, Nick Vannieuwenhoven, Jesse Davis. Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2019 workshop.
+2. [Characterizing Soccer Players' Playing Style from Match Event Streams](https://lirias.kuleuven.be/retrieve/517045). Aron Geerts, Tom Decroos, Jesse Davis. Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2018 workshop.
+[slides](reports/player-vectors-v2.pptx)
+3. [STARSS: A spatio-temporal action rating system for soccer](https://lirias.kuleuven.be/retrieve/465691). Tom Decroos, Jan Van Haaren, Vladimir Dzyuba, Jesse Davis. Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2017 workshop.
+[slides](reports/STARSS.pdf)
+4. [Predicting the potential of professional soccer players](https://lirias.kuleuven.be/retrieve/465703). Ruben Vroonen, Tom Decroos, Jan Van Haaren, Jesse Davis. Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2017 workshop. [slides](reports/APROPOS.pdf)
 
-- Predicting soccer highlights from spatio-temporal match event streams. _Tom Decroos, Vladimir Dzyuba, Jan Van Haaren, Jesse Davis._ **AAAI 2017**.
-[[paper](https://lirias.kuleuven.be/retrieve/415729)] [[poster](reports/AAAI17poster.pdf)]
+**Media**
 
-- STARSS: A spatio-temporal action rating system for soccer. _Tom Decroos, Jan Van Haaren, Vladimir Dzyuba, Jesse Davis._ Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2017 workshop. [[paper](https://lirias.kuleuven.be/retrieve/465691)]
-[[slides](reports/STARSS.pdf)] [[slides pptx](reports/STARSS.pptx)]
-
-- Predicting the potential of professional soccer players. _Ruben Vroonen, Tom Decroos, Jan Van Haaren, Jesse Davis._ Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2017 workshop. [[paper](https://lirias.kuleuven.be/retrieve/465703)]
-[[slides](reports/APROPOS.pdf)] [[slides pptx](reports/APROPOS.pptx)]
-
-You can also look at my [Lirias](https://lirias.kuleuven.be/cv?u=U0085417) or [google scholar](https://scholar.google.be/citations?user=qjT9xpQAAAAJ&hl=en).
-
-
-# Internships
-### Software Engineer (Machine Learning) at Facebook
-PhD internship from June 2018 to August 2018 training and evaluating deep neural networks that recommend ads to over 2 billion users. I improved existing production models to (a) be more robust in A/A tests and (b) use less privacy-sensitive user data.
-
-# Software
-I am the author of two soccer-related pip packages:
-- `socceraction` [[https://github.com/ML-KULeuven/socceraction](https://github.com/ML-KULeuven/socceraction)]: Convert soccer event stream data from commercial vendors (e.g., Opta, Wyscout, StatsBomb) to actions in the simpler SPADL language and value the actions using the VAEP framework.
-- `matplotsoccer` [[https://github.com/TomDecroos/matplotsoccer](https://github.com/TomDecroos/matplotsoccer)]: Visualize soccer event stream data and common figures such as heatmaps over a soccer field.
-
-# Awards
-* AAAI-17 Student Travel Award by AAAI in December 2016.
-* **Personal 4-year PhD scholarship** (aspirant) from FWO Flanders from October 2017 until September 2021.
-* KDD-19 Student Travel Award by KDD in June 2019.
-* **KDD-19 Best Paper in the Applied Data Science Track** (out of >700 submitted papers)
-
-# Media
 Our work on valuing actions in soccer appeared in numerous newspapers and media outlets:
 - https://nieuws.kuleuven.be/en/content/2019/messi-v-ronaldo-whos-the-goat-new-computer-model-may-help-to-settle-the-debate
 - https://sporza.be/nl/2019/08/20/belgisch-onderzoek-is-messi-beter-dan-ronaldo/
@@ -60,9 +43,9 @@ Our work on valuing actions in soccer appeared in numerous newspapers and media 
 - https://innovationorigins.com/research-by-ku-leuven-brings-proof-messi-is-better-than-ronaldo/
 - ...
 
-# Community service
+## Community service
 
-### Reviewing
+**Reviewing**
 - PC member for [SDM 2020](https://www.siam.org/conferences/cm/conference/sdm20)
 - PC member for the [Machine Learning and Data Mining for Sports Analytics Workshop](https://dtai.cs.kuleuven.be/events/MLSA19) at [ECMLPKDD-19](http://ecmlpkdd2019.org/).
 - Reviewer for [ECMLPKDD-2019](http://www.ecmlpkdd2019.org/) 
@@ -75,34 +58,25 @@ Our work on valuing actions in soccer appeared in numerous newspapers and media 
 - Subreviewer for [KDD-2017](http://www.kdd.org/kdd2017/).
 - Subreviewer for [UAI-2017](http://auai.org/uai2017/index.php).
 
-### Organizing
+**Organizing**
+
 I co-organized a three day Spring workshop on mining and learning ([SMiLee](https://dtai.cs.kuleuven.be/smilee/)) for the ML group of KU Leuven in 2017.
 
-# Didactical tasks
+## Didactical tasks
 I am/was a teaching assistant for the following courses:
-- Declarative languages (2019-2020)
-- Data structures and algorithms (2019-2020)
-- Declarative languages (2018-2019)
-- Data structures and algorithms (2018-2019)
-- Declarative languages (2017-2018)
-- Data structures and algorithms (2017-2018)
+- Declarative languages (2017-2020)
+- Data structures and algorithms (2016-2020)
 - Mathematical reasoning for computer scientists (2016-2017)
-- Data structures and algorithms (2016-2017)
     
 I am/was a daily master's thesis advisor for the following students:
-- Jasper Maes (2019-2020)
-- Tomas Geens (2019-2020)
-- James Defauw (2019-2020)
-- Tim Hofmans (2018-2019)
-- Nick Schouten (2018-2019)
-- Kenneth Verstraete (2017-2018)
-- Wouter Bruyninckx (2017-2018)
-- Aron Geerts (2017-2018)
-- Ruben Vroonen (2016-2017)
+- 2019-2020: Jasper Maes, Tomas Geens, James Defauw 
+- 2018-2018: Tim Hofmans, Nick Schouten
+- 2017-2018: Kenneth Verstraete, Wouter Bruyninckx, Aron Geerts (2017-2018)
+- 2016-2017: Ruben Vroonen
 
 I am the ombuds for both the Dutch Master Computerwetenschappen and the English Master in Computer Science at KU Leuven. You can reach me at ombuds-master@cs.kuleuven.be.
 
-# Contact
+## Contact
 **Email**  
 [Send an email](https://people.cs.kuleuven.be/cgi-bin/e-post.pl?epost=Tom.Decroos)  
 
