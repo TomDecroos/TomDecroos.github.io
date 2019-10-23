@@ -1,5 +1,6 @@
+theme: jekyll-theme-minimal
 gems: ["jemoji"]
 title: [Tom Decroos]
 description: [Hi! I am Tom, a 4th year PhD student in the DTAI Research group at KU Leuven working with Prof. Jesse Davis. I research how to learn from complex data streams (using both predictive and descriptive machine learning methods) with a focus on soccer analytics.]
 logo: [selfie_tom.jpg]
-theme: jekyll-theme-minimal
+
