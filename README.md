@@ -1,6 +1,8 @@
-## PhD Researcher in Machine Learning, Artificial Intelligence and Sports Analytics
-![](selfie_tom.jpg)
+
+<img align="right" src"selfie_tom.png">
 Hi! I am Tom, a 4th year PhD student in the DTAI Research group at KU Leuven working with Prof. [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/). I research how to **learn from complex data streams** (using both predictive and descriptive machine learning methods) with a focus on soccer analytics. :soccer:
+
+---
 
 I have a personal **4-year PhD scholarship (aspirant) from FWO Flanders** from October 2017 until September 2021. I recently won the **best applied data science paper award at SIGKDD 2019** (out of >700 submitted papers). I did a 3-month **PhD internship at Facebook** in summer 2018 where I trained and evaluated deep neural networks that recommend ads to over 2 billion users and improved existing production models to be more robust in A/A tests and use less privacy-sensitive user data.
 
