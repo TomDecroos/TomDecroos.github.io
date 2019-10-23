@@ -11,7 +11,7 @@ I am also the author and maintainer of two soccer-related pip packages:
 For the most up-to-date list, see [google scholar](https://scholar.google.be/citations?user=qjT9xpQAAAAJ&hl=en).
 
 **:blue_book: Conferences**
-1. [Actions Speak Louder Than Goals: Valuing Player Actions in Soccer](reports/kdd19_tomd.pdf). Tom Decroos, Lotte Bransen, Jan Van Haaren, Jesse Davis. **KDD 2019 (Best Applied Data Science  Paper)**. [slides](reports/kdd2019_tomd_slides.pdf)[youtube](https://www.youtube.com/watch?v=S_WJwqfVNis])
+1. [Actions Speak Louder Than Goals: Valuing Player Actions in Soccer](reports/kdd19_tomd.pdf). Tom Decroos, Lotte Bransen, Jan Van Haaren, Jesse Davis. **KDD 2019 (Best Applied Data Science  Paper)**. [slides](reports/kdd2019_tomd_slides.pdf)  [youtube](https://www.youtube.com/watch?v=S_WJwqfVNis])
 2. [Player Vectors: Characterizing Soccer Players' Playing Style from Match Event Streams](reports/ecml19_tomd.pdf). Tom Decroos, Jesse Davis. **ECML/PKDD 2019**. [slides](reports/playing-style-wide-v2.pdf)
 3. [Automatic Discovery of Tactics in Spatio-Temporal Soccer Match Data](https://lirias.kuleuven.be/retrieve/510838).
 Tom Decroos, Jan Van Haaren, Jesse Davis. **KDD 2018**.
