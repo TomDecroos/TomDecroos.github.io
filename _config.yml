@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 gems: ["jemoji"]
 title: ["Tom Decroos"]
 description: ["PhD Researcher in Machine Learning Artificial Intelligence and Soccer Analytics"]
+logo: [selfie_tom.jpg]
