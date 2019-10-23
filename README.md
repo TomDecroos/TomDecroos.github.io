@@ -14,22 +14,18 @@ I am also the author and maintainer of two soccer-related pip packages:
 For the most up-to-date list, see [google scholar](https://scholar.google.be/citations?user=qjT9xpQAAAAJ&hl=en).
 
 **:blue_book: Conferences**
-1. [Actions Speak Louder Than Goals: Valuing Player Actions in Soccer](reports/kdd19_tomd.pdf). Tom Decroos, Lotte Bransen, Jan Van Haaren, Jesse Davis. **KDD 2019 (Best Applied Data Science  Paper)**. [slides](reports/kdd2019_tomd_slides.pdf)  [youtube](https://www.youtube.com/watch?v=S_WJwqfVNis])
-2. [Player Vectors: Characterizing Soccer Players' Playing Style from Match Event Streams](reports/ecml19_tomd.pdf). Tom Decroos, Jesse Davis. **ECML/PKDD 2019**. [slides](reports/playing-style-wide-v2.pdf)
-3. [Automatic Discovery of Tactics in Spatio-Temporal Soccer Match Data](https://lirias.kuleuven.be/retrieve/510838).
-Tom Decroos, Jan Van Haaren, Jesse Davis. **KDD 2018**.
-[slides](reports/tactics-wide-v2.pdf) [poster](reports/tactics-poster.pdf)
-4. [AMIE: Automatic Monitoring of Indoor Exercises](https://lirias.kuleuven.be/retrieve/514399). Tom Decroos, Kurt Schütte, Tim Op De Beéck, Benedicte Vanwanseele, Jesse Davis. **ECML/PKDD 2018**.
-[slides](reports/amie-v3.pptx) [poster](reports/amie-poster.pdf)
-5. [Predicting soccer highlights from spatio-temporal match event streams](https://lirias.kuleuven.be/retrieve/415729). Tom Decroos, Vladimir Dzyuba, Jan Van Haaren, Jesse Davis. **AAAI 2017**. [poster](reports/AAAI17poster.pdf)
+1. Actions Speak Louder Than Goals: Valuing Player Actions in Soccer. Tom Decroos, Lotte Bransen, Jan Van Haaren, Jesse Davis. **KDD 2019 (Best Applied Data Science  Paper)**. [paper](reports/kdd19_tomd.pdf) [slides](reports/kdd2019_tomd_slides.pdf)  [youtube](https://www.youtube.com/watch?v=S_WJwqfVNis])
+2. Player Vectors: Characterizing Soccer Players' Playing Style from Match Event Streams. Tom Decroos, Jesse Davis. **ECML/PKDD 2019**. [paper](reports/ecml19_tomd.pdf) [slides](reports/playing-style-wide-v2.pdf) 
+3. Automatic Discovery of Tactics in Spatio-Temporal Soccer Match Data.
+Tom Decroos, Jan Van Haaren, Jesse Davis. **KDD 2018**. [paper](https://lirias.kuleuven.be/retrieve/510838) [slides](reports/tactics-wide-v2.pdf) [poster](reports/tactics-poster.pdf)
+4. AMIE: Automatic Monitoring of Indoor Exercises. Tom Decroos, Kurt Schütte, Tim Op De Beéck, Benedicte Vanwanseele, Jesse Davis. **ECML/PKDD 2018**. [paper](https://lirias.kuleuven.be/retrieve/514399) [slides](reports/amie-v3.pptx) [poster](reports/amie-poster.pdf)
+5. Predicting soccer highlights from spatio-temporal match event streams. Tom Decroos, Vladimir Dzyuba, Jan Van Haaren, Jesse Davis. **AAAI 2017**. [paper](https://lirias.kuleuven.be/retrieve/415729) [poster](reports/AAAI17poster.pdf)
 
 **:orange_book: Workshops**
-1. [Analyzing Soccer Players’ Skill Ratings Over Time Using Tensor-Based Methods.](reports/mlsa19-verstraete.pdf) Kenneth Verstraete, Tom Decroos, Bruno Coussement, Nick Vannieuwenhoven, Jesse Davis. Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2019 workshop.
-2. [Characterizing Soccer Players' Playing Style from Match Event Streams](https://lirias.kuleuven.be/retrieve/517045). Aron Geerts, Tom Decroos, Jesse Davis. Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2018 workshop.
-[slides](reports/player-vectors-v2.pptx)
-3. [STARSS: A spatio-temporal action rating system for soccer](https://lirias.kuleuven.be/retrieve/465691). Tom Decroos, Jan Van Haaren, Vladimir Dzyuba, Jesse Davis. Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2017 workshop.
-[slides](reports/STARSS.pdf)
-4. [Predicting the potential of professional soccer players](https://lirias.kuleuven.be/retrieve/465703). Ruben Vroonen, Tom Decroos, Jan Van Haaren, Jesse Davis. Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2017 workshop. [slides](reports/APROPOS.pdf)
+1. Analyzing Soccer Players’ Skill Ratings Over Time Using Tensor-Based Methods. Kenneth Verstraete, Tom Decroos, Bruno Coussement, Nick Vannieuwenhoven, Jesse Davis. Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2019 workshop. [paper](reports/mlsa19-verstraete.pdf) 
+2. Characterizing Soccer Players' Playing Style from Match Event Streams. Aron Geerts, Tom Decroos, Jesse Davis. Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2018 workshop. [paper](https://lirias.kuleuven.be/retrieve/517045) [slides](reports/player-vectors-v2.pptx)
+3. STARSS: A spatio-temporal action rating system for soccer. Tom Decroos, Jan Van Haaren, Vladimir Dzyuba, Jesse Davis. Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2017 workshop. [paper](https://lirias.kuleuven.be/retrieve/465691) [slides](reports/STARSS.pdf)
+4. Predicting the potential of professional soccer players. Ruben Vroonen, Tom Decroos, Jan Van Haaren, Jesse Davis. Machine Learning and Data Mining for Sports Analytics ECML/PKDD 2017 workshop. [paper](https://lirias.kuleuven.be/retrieve/465703) [slides](reports/APROPOS.pdf)
 
 **:newspaper: Media**
 
