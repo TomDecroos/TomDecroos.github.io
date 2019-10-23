@@ -1,4 +1,5 @@
 gems: ["jemoji"]
 title: [Tom Decroos]
 description: [A short description of your site's purpose]
+logo : [selfie_tom.jpg]
 theme: jekyll-theme-minimal
