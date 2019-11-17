@@ -67,7 +67,7 @@ I am/was a teaching assistant for the following courses:
     
 I am/was a daily master's thesis advisor for the following students:
 - 2019-2020: Jasper Maes, Tomas Geens, James Defauw 
-- 2018-2018: Tim Hofmans, Nick Schouten
+- 2018-2019: Tim Hofmans, Nick Schouten
 - 2017-2018: Kenneth Verstraete, Wouter Bruyninckx, Aron Geerts (2017-2018)
 - 2016-2017: Ruben Vroonen
 
