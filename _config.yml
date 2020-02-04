@@ -1,7 +1,2 @@
 gems: ["jemoji"]
 title: "Tom Decroos - PhD Researcher in Machine Learning, Artificial Intelligence and Soccer Analytics"
-
-readme_index:
-  enabled:          true
-  remove_originals: false
-  with_frontmatter: True
