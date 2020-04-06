@@ -5,7 +5,7 @@ Hi! I am Tom, a 4th year PhD student in the DTAI Research group at KU Leuven wor
 Some highlights of my PhD are:
 - Personal 4-year PhD scholarship (aspirant) from FWO Flanders from October 2017 until September 2021.
 - Best applied data science paper award at SIGKDD 2019 (out of >700 submitted papers).
-- PhD internship at Facebook in summer 2018. In this intership I trained and evaluated deep neural networks that recommend ads to over 2 billion users and improved existing production models to be more robust in A/A tests and use less privacy-sensitive user data.
+- PhD internship at Facebook in summer 2018. In this internship I trained and evaluated deep neural networks that recommend ads to over 2 billion users and improved existing production models to be more robust in A/A tests and use less privacy-sensitive user data.
 
 I am the author and maintainer of two soccer-related pip packages:
 1. `socceraction` [https://github.com/ML-KULeuven/socceraction](https://github.com/ML-KULeuven/socceraction): Convert soccer event stream data from commercial vendors (e.g., Opta, Wyscout, StatsBomb) to actions in the simpler SPADL language and value the actions using the VAEP framework.
