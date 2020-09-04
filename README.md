@@ -16,12 +16,13 @@ I am the author and maintainer of two soccer-related pip packages:
 For the most up-to-date list, see [google scholar](https://scholar.google.be/citations?user=qjT9xpQAAAAJ&hl=en).
 
 **:blue_book: Conferences**
-1. Actions Speak Louder Than Goals: Valuing Player Actions in Soccer. **Tom Decroos**, Lotte Bransen, Jan Van Haaren, Jesse Davis. **KDD 2019 (Best Applied Data Science  Paper)**. [paper](reports/kdd19_tomd.pdf) [slides](reports/kdd2019_tomd_slides.pdf)  [youtube](https://www.youtube.com/watch?v=S_WJwqfVNis])
-2. Player Vectors: Characterizing Soccer Players' Playing Style from Match Event Streams. **Tom Decroos**, Jesse Davis. **ECML/PKDD 2019**. [paper](reports/ecml19_tomd.pdf) [slides](reports/playing-style-wide-v2.pdf) 
-3. Automatic Discovery of Tactics in Spatio-Temporal Soccer Match Data.
+1. SoccerMix: Representing Soccer Actions with Mixture Models **Tom Decroos**, Maaike Van Roy, Jesse Davis. **ECML/PKDD 2020**. [paper](reports/ecml_2020.pdf) [slides](reports/soccermix-presentation.pdf) 
+2. Actions Speak Louder Than Goals: Valuing Player Actions in Soccer. **Tom Decroos**, Lotte Bransen, Jan Van Haaren, Jesse Davis. **KDD 2019 (Best Applied Data Science  Paper)**. [paper](reports/kdd19_tomd.pdf) [slides](reports/kdd2019_tomd_slides.pdf)  [youtube](https://www.youtube.com/watch?v=S_WJwqfVNis])
+3. Player Vectors: Characterizing Soccer Players' Playing Style from Match Event Streams. **Tom Decroos**, Jesse Davis. **ECML/PKDD 2019**. [paper](reports/ecml19_tomd.pdf) [slides](reports/playing-style-wide-v2.pdf) 
+4. Automatic Discovery of Tactics in Spatio-Temporal Soccer Match Data.
 **Tom Decroos**, Jan Van Haaren, Jesse Davis. **KDD 2018**. [paper](https://lirias.kuleuven.be/retrieve/510838) [slides](reports/tactics-wide-v2.pdf) [poster](reports/tactics-poster.pdf)
-4. AMIE: Automatic Monitoring of Indoor Exercises. **Tom Decroos**, Kurt Schütte, Tim Op De Beéck, Benedicte Vanwanseele, Jesse Davis. **ECML/PKDD 2018**. [paper](https://lirias.kuleuven.be/retrieve/514399) [slides](reports/amie-v3.pptx) [poster](reports/amie-poster.pdf)
-5. Predicting soccer highlights from spatio-temporal match event streams. **Tom Decroos**, Vladimir Dzyuba, Jan Van Haaren, Jesse Davis. **AAAI 2017**. [paper](https://lirias.kuleuven.be/retrieve/415729) [poster](reports/AAAI17poster.pdf)
+5. AMIE: Automatic Monitoring of Indoor Exercises. **Tom Decroos**, Kurt Schütte, Tim Op De Beéck, Benedicte Vanwanseele, Jesse Davis. **ECML/PKDD 2018**. [paper](https://lirias.kuleuven.be/retrieve/514399) [slides](reports/amie-v3.pptx) [poster](reports/amie-poster.pdf)
+6. Predicting Soccer Highlights from Spatio-Temporal Match Event Streams. **Tom Decroos**, Vladimir Dzyuba, Jan Van Haaren, Jesse Davis. **AAAI 2017**. [paper](https://lirias.kuleuven.be/retrieve/415729) [poster](reports/AAAI17poster.pdf)
 
 **:orange_book: Workshops**
 1. Interpretable Prediction of Goals in Soccer. **Tom Decroos**, Jesse Davis. Team Sports in AI workshop at AAAI 2020 / StatsBomb Innovation in Football Conference. [paper](reports/interpret_vaep.pdf) [slides](reports/tom-decroos-interpretable-models.pdf) [youtube](https://www.youtube.com/watch?v=i7Ra4Qv4_m4)
@@ -46,20 +47,23 @@ Our work on valuing actions in soccer appeared in numerous newspapers and media 
 ## Community service
 
 **:mag: Reviewing**
+- PC memberm for [IJCAI 2021](https://ijcai-21.org/)
+- PC member for [AAAI 2021](https://aaai.org/Conferences/AAAI-21/)
+- PC member for the [Machine Learning and Data Mining for Sports Analytics Workshop](https://dtai.cs.kuleuven.be/events/MLSA19) at [ECML/PKDD 2020](http://ecmlpkdd2019.org/).
 - PC member for [ECMLPKDD 2020](https://ecmlpkdd2020.net/)
 - PC member for [IJCAI 2020](https://ijcai20.org/)
 - PC member for [Team Sports in AI workshop at AAAI 2020](https://ai-teamsports.weebly.com/)
 - PC member for [SDM 2020](https://www.siam.org/conferences/cm/conference/sdm20)
-- PC member for the [Machine Learning and Data Mining for Sports Analytics Workshop](https://dtai.cs.kuleuven.be/events/MLSA19) at [ECMLPKDD-19](http://ecmlpkdd2019.org/).
-- Reviewer for [ECMLPKDD-2019](http://www.ecmlpkdd2019.org/) 
-- Reviewer for [IEEE VIS-2019](http://ieeevis.org/year/2019/welcome)
-- Subreviewer for [IJCAI-2019](https://ijcai19.org/)
-- Reviewer for [AAAI-2019](https://aaai.org/Conferences/AAAI-19/)
+- PC member for the [Machine Learning and Data Mining for Sports Analytics Workshop](https://dtai.cs.kuleuven.be/events/MLSA19) at [ECML/PKDD 2019](http://ecmlpkdd2019.org/).
+- Reviewer for [ECML/PKDD 2019](http://www.ecmlpkdd2019.org/) 
+- Reviewer for [IEEE VIS 2019](http://ieeevis.org/year/2019/welcome)
+- Subreviewer for [IJCAI 2019](https://ijcai19.org/)
+- Reviewer for [AAAI 2019](https://aaai.org/Conferences/AAAI-19/)
 - Reviewer for the [Big Data](https://home.liebertpub.com/publications/big-data/611/overview) Journal
-- Reviewer for the [Machine Learning and Data Mining for Sports Analytics Workshop](https://dtai.cs.kuleuven.be/events/MLSA18) at [ECMLPKDD-18](http://ecmlpkdd2018.org/).
-- Reviewer for the [Machine Learning and Data Mining for Sports Analytics Workshop](https://dtai.cs.kuleuven.be/events/MLSA17) at [ECMLPKDD-17](http://ecmlpkdd2019.org/).
-- Subreviewer for [KDD-2017](http://www.kdd.org/kdd2017/).
-- Subreviewer for [UAI-2017](http://auai.org/uai2017/index.php).
+- Reviewer for the [Machine Learning and Data Mining for Sports Analytics Workshop](https://dtai.cs.kuleuven.be/events/MLSA18) at [ECML/PKDD 2018](http://ecmlpkdd2018.org/).
+- Reviewer for the [Machine Learning and Data Mining for Sports Analytics Workshop](https://dtai.cs.kuleuven.be/events/MLSA17) at [ECML/PKDD 2017](http://ecmlpkdd2019.org/).
+- Subreviewer for [KDD 2017](http://www.kdd.org/kdd2017/).
+- Subreviewer for [UAI 2017](http://auai.org/uai2017/index.php).
 
 **:computer: Organizing**
 
@@ -67,22 +71,22 @@ I co-organized a three day Spring workshop on mining and learning ([SMiLee](http
 
 **:school: Didactical tasks**
 
-I am/was a teaching assistant for the following courses:
+I was a teaching assistant for the following courses:
 - [Declarative languages](https://onderwijsaanbod.kuleuven.be/2019/syllabi/e/H0N03AE.htm#activetab=doelstellingen_idp12290864) (2017-2020)
 - [Data structures and algorithms](https://onderwijsaanbod.kuleuven.be/2019/syllabi/n/G0P81AN.htm#activetab=doelstellingen_idp745648) (2016-2020)
 - [Mathematical reasoning for computer scientists](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0U41AN.htm#activetab=doelstellingen_idm11217472) (2016-2017)
     
-I am/was a daily master's thesis advisor for the following students:
+I was a daily master's thesis advisor for the following students:
 - 2019-2020: Jasper Maes, Tomas Geens, James Defauw 
 - 2018-2019: Tim Hofmans, Nick Schouten
-- 2017-2018: Kenneth Verstraete, Wouter Bruyninckx, Aron Geerts (2017-2018)
+- 2017-2018: Kenneth Verstraete, Wouter Bruyninckx, Aron Geerts
 - 2016-2017: Ruben Vroonen
 
-I am the ombuds for both the Dutch Master Computerwetenschappen and the English Master in Computer Science at KU Leuven. You can reach me at ombuds-master@cs.kuleuven.be.
+I was the ombuds for both the Dutch Master Computerwetenschappen and the English Master in Computer Science at KU Leuven.
 
 ## Contact
 **Email**  
-[Send an email](https://people.cs.kuleuven.be/cgi-bin/e-post.pl?epost=Tom.Decroos)  
+<firstname>.<lastname>@gmail.com
 
 **Phone**  
 +32 16 37 47 59  
@@ -97,4 +101,4 @@ Celestijnenlaan 200A box 2402
 
 You can also reach me via my [KU Leuven profile](https://www.kuleuven.be/wieiswie/en/person/00085417), [LinkedIn](https://www.linkedin.com/in/tom-decroos-97488980/) or [Twitter](https://twitter.com/TomDecroos).
 
-_Last update: 06/04/2020_
+_Last update: 04/09/2020_
