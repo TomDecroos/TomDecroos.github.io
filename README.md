@@ -15,6 +15,9 @@ I am the author and maintainer of two soccer-related pip packages:
 
 For the most up-to-date list, see [google scholar](https://scholar.google.be/citations?user=qjT9xpQAAAAJ&hl=en).
 
+**:star: PhD Thesis**
+- Soccer Analytics Meets Artificial Intelligence: Learning Value and Style from Soccer Event Stream Data. Download [thesis](reports/thesis_tomdecroos.pdf).
+
 **:blue_book: Conferences**
 1. SoccerMix: Representing Soccer Actions with Mixture Models **Tom Decroos**, Maaike Van Roy, Jesse Davis. **ECML/PKDD 2020**. [paper](reports/ecml_2020.pdf) [slides](reports/soccermix-presentation.pdf) 
 2. Actions Speak Louder Than Goals: Valuing Player Actions in Soccer. **Tom Decroos**, Lotte Bransen, Jan Van Haaren, Jesse Davis. **KDD 2019 (Best Applied Data Science  Paper)**. [paper](reports/kdd19_tomd.pdf) [slides](reports/kdd2019_tomd_slides.pdf)  [youtube](https://www.youtube.com/watch?v=S_WJwqfVNis])
