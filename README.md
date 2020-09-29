@@ -89,7 +89,7 @@ I was the ombuds for both the Dutch Master Computerwetenschappen and the English
 
 ## Contact
 **Email**  
-<firstname>.<lastname>@gmail.com
+\<firstname\>.\<lastname\>@gmail.com
 
 **Phone**  
 +32 16 37 47 59  
