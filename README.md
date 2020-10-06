@@ -1,15 +1,8 @@
 <img align="right" width="170" src="https://github.com/TomDecroos/TomDecroos.github.io/raw/master/headshot_tom_small.jpg">
 
-Hi! I am Tom, a 4th year PhD student in the DTAI Research group at KU Leuven working with Prof. [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/). I research how to **learn from complex data streams** (using both predictive and descriptive machine learning methods) with a focus on soccer analytics. :soccer:
+Hi! I am Tom, I am a Sofware Engineer at Facebook and I used to be a PhD student in the DTAI Research group at KU Leuven working with Prof. Jesse Davis.
 
-Some highlights of my PhD are:
-- Personal 4-year PhD scholarship (aspirant) from FWO Flanders from October 2017 until September 2021.
-- Best applied data science paper award at SIGKDD 2019 (out of >700 submitted papers).
-- PhD internship at Facebook in summer 2018. In this internship I trained and evaluated deep neural networks that recommend ads to over 2 billion users and improved existing production models to be more robust in A/A tests and use less privacy-sensitive user data.
-
-I am the author and maintainer of two soccer-related pip packages:
-1. `socceraction` [https://github.com/ML-KULeuven/socceraction](https://github.com/ML-KULeuven/socceraction): Convert soccer event stream data from commercial vendors (e.g., Opta, Wyscout, StatsBomb) to actions in the simpler SPADL language and value the actions using the VAEP framework.
-2. `matplotsoccer` [https://github.com/TomDecroos/matplotsoccer](https://github.com/TomDecroos/matplotsoccer): Visualize soccer event stream data and common figures such as heatmaps over a soccer field.
+Download my [resume](https://docs.google.com/document/d/1iA9V6qmLhTYZSLsGfP-HlRbqkJakL_gGZbhtDHvhj3c/edit?usp=sharing).
 
 ## Publications
 
@@ -46,6 +39,11 @@ Our work on valuing actions in soccer appeared in numerous newspapers and media 
 - [https://www.foxsportsasia.com/football/1160608/supercomputer-shows-who-is-better-between-cristiano-ronaldo-and-lionel-messi/](https://www.foxsportsasia.com/football/1160608/supercomputer-shows-who-is-better-between-cristiano-ronaldo-and-lionel-messi/)
 - [https://innovationorigins.com/research-by-ku-leuven-brings-proof-messi-is-better-than-ronaldo/](https://innovationorigins.com/research-by-ku-leuven-brings-proof-messi-is-better-than-ronaldo/)
 - ...
+
+## Software
+I am the author and maintainer of two soccer-related pip packages:
+1. `socceraction` [https://github.com/ML-KULeuven/socceraction](https://github.com/ML-KULeuven/socceraction): Convert soccer event stream data from commercial vendors (e.g., Opta, Wyscout, StatsBomb) to actions in the simpler SPADL language and value the actions using the VAEP framework.
+2. `matplotsoccer` [https://github.com/TomDecroos/matplotsoccer](https://github.com/TomDecroos/matplotsoccer): Visualize soccer event stream data and common figures such as heatmaps over a soccer field.
 
 ## Community service
 
@@ -91,17 +89,6 @@ I was the ombuds for both the Dutch Master Computerwetenschappen and the English
 **Email**  
 \<firstname\>.\<lastname\>@gmail.com
 
-**Phone**  
-+32 16 37 47 59  
+You can also reach me via my [LinkedIn](https://www.linkedin.com/in/tom-decroos-97488980/) or [Twitter](https://twitter.com/TomDecroos).
 
-**Address**  
-Department of Computer Science, KU Leuven  
-Celestijnenlaan 200A box 2402  
-3001 Heverlee, Belgium  
-
-**Office**  
-200A.02.144
-
-You can also reach me via my [KU Leuven profile](https://www.kuleuven.be/wieiswie/en/person/00085417), [LinkedIn](https://www.linkedin.com/in/tom-decroos-97488980/) or [Twitter](https://twitter.com/TomDecroos).
-
-_Last update: 04/09/2020_
+_Last updated: 06/10/2020_
